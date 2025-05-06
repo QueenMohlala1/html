@@ -2,7 +2,7 @@
 <!DOCTYPE>
 <html>
   <head>
-    
+  
     </head>
     <body>
         <h1>Home Page</h1>
