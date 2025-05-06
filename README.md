@@ -1,3 +1,4 @@
+#Code for the Home page#
 <!DOCTYPE>
 <html>
   <head>
@@ -23,3 +24,34 @@
         <a href="About.html">Click here to go to About Us</a>
     </body>
 </html>
+
+
+
+#code for the About us#
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <h2>About us</h2>
+        <p>Hello and welcome</p>
+        <a href="index.html">Click here to go to Home page</a>
+    </body>
+</html>
+
+
+
+#Code for the SleepingDog#
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <h1>Boat</h1>
+        <img src="images/Sleeping_dog.jpg" />
+        <br/>
+        <a href="index.html">Home</a>
+    </body>
+</html>
+
